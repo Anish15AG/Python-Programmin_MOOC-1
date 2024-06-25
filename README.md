@@ -5,4 +5,5 @@ This is the first part of the two part course offered by [University of Helsinki
 This repository contains my solutions to the exercises from the **Introduction to Programming Course by the University of Helsinki**.
 
 **The First part of the course contains 7 individual parts with its own exercises**
+
 _The repository is being updated as per the progress being made in real-time._
